@@ -1,1 +1,1 @@
-# module2Nextflox
+# module2Nextflow
